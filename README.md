@@ -2,6 +2,7 @@
 
 Fully simulated solvable rubics cube. 
 
+Has a random shuffler to mix the rubics cube before solving. If you do not want to use the shuffler, when prompted type 0 (for 0 shuffling).
 
 CONTROLS:
 Select what side you would like to move with numpad 8,4,5,6, and 2. 
