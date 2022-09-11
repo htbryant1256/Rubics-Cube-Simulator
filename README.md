@@ -1,6 +1,12 @@
 # Rubics-Cube-Simulator
 
+Fully simulated solvable rubics cube. 
 
+
+CONTROLS:
+Select what side you would like to move with numpad 8,4,5,6, and 2. 
+While holding a select key use WASD to move the side in that direction. 
+Arrow keys are used to rotate the cube around to get a better view.
 
 
 ![image](https://user-images.githubusercontent.com/60831223/189515130-4266081f-0f2b-49c7-ac0b-aa3aa756b800.png)
